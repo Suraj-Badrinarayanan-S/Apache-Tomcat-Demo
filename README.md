@@ -17,7 +17,7 @@ Login using the credentials defined in tomcat-users.xml (e.g., admin/admin1234).
 View the Deployed Application:
 
 Place the .war file in the webapps folder.
-Access the application at http://<server-ip>:8080/petclinic.
+Access the application at http:// <server-ip>:8080/petclinic.
 
 Stop Tomcat (if needed):
 
